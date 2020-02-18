@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9df21956-02b4-4a7d-89c9-2589aac3ac43" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1XmBqeNjY4dfzwJa5p92xtTVo8J" />
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.employee_optimized">
+    <configuration name="employee_optimized" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Driver" />
+      <module name="StableMarriage" />
+      <option name="PROGRAM_PARAMETERS" value="-ge small_inputs/test.in" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="location_optimized" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Driver" />
+      <module name="StableMarriage" />
+      <option name="PROGRAM_PARAMETERS" value="-gl small_inputs/3-10-3.in" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.employee_optimized" />
+      <item itemvalue="Application.location_optimized" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9df21956-02b4-4a7d-89c9-2589aac3ac43" name="Default Changelist" comment="" />
+      <created>1581641581872</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581641581872</updated>
+    </task>
+    <servers />
+  </component>
+</project>
